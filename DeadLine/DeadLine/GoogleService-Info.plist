@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1097993626225-q2iu3gkdrml0sgb0pnp9640gm5k9gfgo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1097993626225-q2iu3gkdrml0sgb0pnp9640gm5k9gfgo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB350JEbJcTRaUxxUz0mdcdpnhPAUGWCQo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1097993626225</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.test.DeadLine.DeadLine</string>
+	<key>PROJECT_ID</key>
+	<string>deadline-885cb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>deadline-885cb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1097993626225:ios:3c94f60a1895f32641b1d0</string>
+	<key>DATABASE_URL</key>
+	<string>https://deadline-885cb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

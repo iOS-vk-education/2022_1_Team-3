@@ -1,0 +1,6 @@
+framework module Pods_DeadLine {
+  umbrella header "Pods-DeadLine-umbrella.h"
+
+  export *
+  module * { export * }
+}
